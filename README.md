@@ -9,6 +9,8 @@ Javscript 공부(예제) Github
 
 (002) - [주석](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(002)주석.md)
 
+(003) - [자료형](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(003)자료형.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
