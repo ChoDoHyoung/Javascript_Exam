@@ -13,6 +13,8 @@ Javscript 공부(예제) Github
 
 (004) - [숫자형](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(004)숫자형.md)
 
+(005) - [문자열](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(005)문자열.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
