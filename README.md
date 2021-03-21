@@ -15,6 +15,8 @@ Javscript 공부(예제) Github
 
 (005) - [문자열](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(005)문자열.md)
 
+(006) - [논리연산자](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(006)논리연산자.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
