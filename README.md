@@ -17,6 +17,10 @@ Javscript 공부(예제) Github
 
 (006) - [논리연산자](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(006)논리연산자.md)
 
+(007) - [객체](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(007)객체.md)
+
+(008) - [심볼형](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(008)심볼형.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
