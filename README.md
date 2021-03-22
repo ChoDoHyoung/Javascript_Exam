@@ -21,6 +21,8 @@ Javscript 공부(예제) Github
 
 (008) - [심볼형](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(008)심볼형.md)
 
+(009) - [메서드와this](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(009)메서드와this.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
