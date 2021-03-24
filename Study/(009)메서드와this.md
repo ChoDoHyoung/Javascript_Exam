@@ -187,4 +187,4 @@
         user.sayHi(); // 보라
     ~~~
 - 별개의 this가 만들어지는 건 원하지 않고, 외부 컨텍스트에 있는 this를 이용하고 싶은 경우 화살표 함수가 유용.
-- 이에 대한 자세한 내용은 별도의 챕터, [미완성 - 화살표 함수(arrow function)]에서 확인.
+- 이에 대한 자세한 내용은 별도의 챕터,  [(010)화살표함수](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(010)화살표함수.md)에서 확인.

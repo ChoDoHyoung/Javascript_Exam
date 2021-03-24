@@ -23,6 +23,12 @@ Javscript 공부(예제) Github
 
 (009) - [메서드와this](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(009)메서드와this.md)
 
+(010) - [화살표함수](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(010)화살표함수.md)
+
+(011) - [new연산자와생성자함수](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(011)new연산자와생성자함수.md)
+
+(012) - [참조에의한객체복사](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(012)참조에의한객체복사.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
