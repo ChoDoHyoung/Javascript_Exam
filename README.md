@@ -33,6 +33,7 @@ Javscript 공부(예제) Github
 
 (014) - [옵셔널 체이닝](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(014)옵셔널%20체이닝.md)
 
+(015) - [keys, values, entries](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(014)keys,%20values,%20entries.md)
 ## 예제 (Exam)
 
 - 등록 예정
