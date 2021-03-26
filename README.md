@@ -29,6 +29,10 @@ Javscript 공부(예제) Github
 
 (012) - [참조에의한객체복사](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(012)참조에의한객체복사.md)
 
+(013) - [객체를 원시형으로 변환하기](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(013)객체를%20원시형으로%20변환하기.md)
+
+(014) - [옵셔널 체이닝](https://github.com/ChoDoHyoung/Javascript_Exam/blob/main/Study/(014)옵셔널%20체이닝.md)
+
 ## 예제 (Exam)
 
 - 등록 예정
